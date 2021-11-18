@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>大数据爱好者社区</title>
   
-  
+  <subtitle>大数据爱好者社区二级标题</subtitle>
   <link href="https://wangning-bigdata.github.io/atom.xml" rel="self"/>
   
   <link href="https://wangning-bigdata.github.io/"/>
